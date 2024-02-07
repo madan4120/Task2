@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+background-color: black;
+color: white;
+padding-left: 25px;
+}
+#contact{
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid orangered;
+    margin: 15px;
+    width: 8%;
+    color: white;
+   }
+.container{
+    padding: 50px;
+    height: 50vh;
+}
+table{
+    padding: 25px;
+    
+}
+
+td{
+    padding-top: 20px;
+}
+#btn{
+    background-color: orangered;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid orangered;
+    width: 70%;
+    color: white;
+}
+.media{
+    background-color: black;
+    margin-top: 30px;
+    padding-top: 30px;
+    
+ }
+ .media h3{
+      color: white;
+ }
+ .media .links{
+   display: flex;
+   
+   margin-left: 20px;
+ }
+ .media .links a{
+ padding-left: 10px;
+ align-items: center;
+ color: lightblue;
+ }
+ .media #copy{
+ color: white;
+ padding: 10px;
+ font-weight: bold;
+ padding-left: 30px;
+ }
